@@ -15,6 +15,7 @@ This repository contains my Python learning journey, including practice code, ex
 * Exception Handling
 * Object-Oriented Programming
 * NumPy
+* Pandas
 
 
 
