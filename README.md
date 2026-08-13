@@ -16,29 +16,6 @@ This repository contains my Python learning journey, including practice code, ex
 * Object-Oriented Programming
 * NumPy
 
-## 🛠️ Tools
 
-* Python
-* Jupyter Notebook
-* VS Code
-* NumPy
-* Git & GitHub
-
-## 📈 Progress
-
-* [x] Python Fundamentals
-* [x] Object-Oriented Programming
-* [x] NumPy
-* [ ] Pandas
-* [ ] Matplotlib
-* [ ] SciPy
-* [ ] Scikit-learn
-* [ ] Machine Learning
-
-## 🎯 Goal
-
-Build a strong foundation in Python and gradually move toward **Machine Learning, Deep Learning, and AI**.
-
----
 
 **Keep Learning. Keep Coding. 🚀**
