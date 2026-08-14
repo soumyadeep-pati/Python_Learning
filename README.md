@@ -16,6 +16,7 @@ This repository contains my Python learning journey, including practice code, ex
 * Object-Oriented Programming
 * NumPy
 * Pandas
+* ML
 
 
 
