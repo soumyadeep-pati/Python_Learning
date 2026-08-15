@@ -40,4 +40,13 @@ Thumbs.db
 *.sqlite3
 
 # Logs
-*.log 
+*.log
+# CSV datasets
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc 
