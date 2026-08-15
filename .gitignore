@@ -41,8 +41,6 @@ Thumbs.db
 
 # Logs
 *.log
-# CSV datasets
-*.csv
 
 # Jupyter
 .ipynb_checkpoints/
@@ -50,3 +48,5 @@ Thumbs.db
 # Python
 __pycache__/
 *.pyc 
+# datasets
+.csv
