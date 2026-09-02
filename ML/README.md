@@ -27,9 +27,8 @@ ML/
 │   │
 │   ├── 01_Introduction_to_Machine_Learning.ipynb
 │   ├── 02_Mathematics_for_ML.ipynb
-│   ├── 03_Probability_and_Statistics.ipynb
-│   ├── 04_Data_Preprocessing.ipynb
-│   └── 05_ML_Workflow.ipynb
+│   ├── 03_Data_Preprocessing.ipynb
+│   └── 04_ML_Workflow.ipynb
 │
 ├── 01_Supervised_Learning/
 │   │
