@@ -31,6 +31,7 @@ ML/
 │   └── 04_ML_Workflow.ipynb
 |   └── 05_Model_Evaluation.ipynb
 |   └── 06_Overfitting_Underfitting.ipynb
+|   └── 07_Bias_Variance_Tradeoff.ipynb
 │
 ├── 01_Supervised_Learning/
 │   │
