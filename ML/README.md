@@ -52,12 +52,13 @@ ML/
 │   │
 │   ├── 01_KMeans.ipynb
 │   ├── 02_Kernel_KMeans.ipynb
-│   ├── 03_PCA.ipynb
-│   ├── 04_Kernel_PCA.ipynb
-│   ├── 05_Matrix_Factorization.ipynb
-│   ├── 06_Matrix_Completion.ipynb
-│   ├── 07_Mixture_Models.ipynb
-│   └── 08_Latent_Factor_Models.ipynb
+│   ├── 03_Hierarchical_Clustering.ipynb
+│   ├── 04_PCA.ipynb
+│   ├── 05_Kernel_PCA.ipynb
+│   ├── 06_Matrix_Factorization.ipynb
+│   ├── 07_Matrix_Completion.ipynb
+│   ├── 08_Mixture_Models.ipynb
+│   └── 09_Latent_Factor_Models.ipynb
 │
 ├── 03_Model_Evaluation_and_Selection/
 │   │
