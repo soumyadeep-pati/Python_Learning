@@ -29,9 +29,6 @@ ML/
 │   ├── 02_Mathematics_for_ML.ipynb
 │   ├── 03_Data_Preprocessing.ipynb
 │   └── 04_ML_Workflow.ipynb
-|   └── 05_Model_Evaluation.ipynb
-|   └── 06_Overfitting_Underfitting.ipynb
-|   └── 07_Bias_Variance_Tradeoff.ipynb
 │
 ├── 01_Supervised_Learning/
 │   │
@@ -67,12 +64,18 @@ ML/
 │   ├── 03_Cross_Validation.ipynb
 │   ├── 04_Bias_and_Variance.ipynb
 │   ├── 05_Overfitting_and_Underfitting.ipynb
-│   ├── 06_Statistical_Learning_Theory.ipynb
-│   ├── 07_Bagging.ipynb
-│   ├── 08_Boosting.ipynb
-│   └── 09_Random_Forest.ipynb
+│   └── 06_Statistical_Learning_Theory.ipynb
 │
-├── 04_Advanced_Machine_Learning/
+├── 04_Ensemble_Learning/
+│   │
+│   ├── 01_Bagging.ipynb
+│   ├── 02_Boosting.ipynb
+│   ├── 03_Random_Forest.ipynb
+│   ├── 04_XGBoost.ipynb
+│   ├── 05_LightGBM.ipynb
+│   └── 06_CatBoost.ipynb
+│
+├── 05_Advanced_Machine_Learning/
 │   │
 │   ├── 01_Sparse_Modeling.ipynb
 │   ├── 02_Sparse_Estimation.ipynb
@@ -82,7 +85,7 @@ ML/
 │   ├── 06_Neural_Networks.ipynb
 │   └── 07_Feature_Representation_Learning.ipynb
 │
-├── 05_Scalable_and_Advanced_ML/
+├── 06_Scalable_and_Advanced_ML/
 │   │
 │   ├── 01_Online_Learning.ipynb
 │   ├── 02_Distributed_Learning.ipynb
@@ -92,7 +95,7 @@ ML/
 │   ├── 06_Graphical_Models.ipynb
 │   └── 07_Bayesian_Learning_and_Inference.ipynb
 │
-├── 06_Recent_Trends/
+├── 07_Recent_Trends/
 │   │
 │   ├── 01_Recent_ML_Trends.ipynb
 │   └── 02_Recent_Classification_Methods.ipynb
