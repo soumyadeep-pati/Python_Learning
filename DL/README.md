@@ -262,15 +262,7 @@ Deep_Learning/
 │   ├── 04_Model_Optimization/
 │   └── 05_Deployment_Project/
 │
-└── 19_Deep_Learning_Interview_Preparation/
-    ├── 01_Theory/
-    ├── 02_Mathematics/
-    ├── 03_Neural_Networks/
-    ├── 04_CNN/
-    ├── 05_RNN_and_Transformers/
-    ├── 06_PyTorch/
-    ├── 07_Coding/
-    └── 08_System_Design/
+
 ```
 
 ---
