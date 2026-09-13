@@ -2,6 +2,7 @@
 .env/
 venv/
 env/
+.env_dl
 
 # Environment variables / secrets
 .env
