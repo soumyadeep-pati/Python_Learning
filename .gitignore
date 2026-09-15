@@ -37,6 +37,9 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
+# Datasets
+data/
+
 # Local databases
 *.sqlite3
 
@@ -56,3 +59,10 @@ __pycache__/
 
 # CatBoost
 **/catboost_info/
+
+# TensorBoard
+runs/
+
+# Experiment outputs
+outputs/
+results/
